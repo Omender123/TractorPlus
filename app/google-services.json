@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6296133425",
+    "project_id": "psbuysell-798ab",
+    "storage_bucket": "psbuysell-798ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6296133425:android:f3a8ba0d22619592df5a10",
+        "android_client_info": {
+          "package_name": "com.panaceasoft.psbuyandsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6296133425-rnobb2mdd48ekdi9avgg4831j1mp5tei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panaceasoft.psbuyandsell",
+            "certificate_hash": "2944afa947b2ee46897eb6a67c5e8178297d6b09"
+          }
+        },
+        {
+          "client_id": "6296133425-514rumj0922qnnp9mpe84j4gt9smte8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZazqkNW7Ean88Ghb8I4dtirnjX9YT-FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6296133425-514rumj0922qnnp9mpe84j4gt9smte8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

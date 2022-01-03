@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/PS-BuySell3/app/src/main/res/layout/activity_about_us.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/PS-BuySell3/app/src/main/res/layout/fragment_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/PS-BuySell3/app/src/main/res/layout/fragment_item_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_about_us.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_app_info.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_app_loading.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_blog_detail.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_blog_list.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_favourite_list.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_fblogin.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_safety_tips.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_search_by_category.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_search_view.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_setting.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_stripe.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/activity_user_list.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/dialog_app_info.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/dialog_box_design.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/dialog_category_delete_confirm.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/dialog_choose_payment_type_info.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/dialog_message.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/dialog_subcategory_filter.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/drawer_header.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_app_info.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_app_loading.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_block_user.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_blog_detail.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_blog_list.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_buyer.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_camera.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_camera_setting.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_filter.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_force_update.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_gallery.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_gallery_detail.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_history.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_in_app_purchase.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_item.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_item_condition.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_item_currency_type.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_item_deal_option_type.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_item_entry.xml" value="0.12692816218598502" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_item_list.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/fragment_more.xml" value="0.33" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_chat_list_time.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_item_search_list_adapter.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_rating_list.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_reported_item_adapter.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_search_category_adapter.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_search_sub_category_adapter.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_seller_chat_history_list_adapter.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_sub_category_filter.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/item_user_adapter.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/notification_badge.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/notification_layout.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/type_filter.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/layout/type_location_filter.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/basket_menu.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/blog_menu.xml" value="0.15" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/clear_button.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/filter_menu.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/menu_drawer.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/menu_edit_rating.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/menu_home.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/menu_map_filtering.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/menu_ok_button.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/menu_pick_location.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/menu_popup.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/notification_menu.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/own_menu_popup.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/save_menu.xml" value="0.284375" />
+        <entry key="..\:/Users/debjithui/Desktop/PS-BuySell3/app/src/main/res/menu/search_view_menu.xml" value="0.284375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/activity_login_user_item_list.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/activity_township_location.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/activity_user_detail.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/dialog_box_design.xml" value="0.115625" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/fragment_featured_list.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/fragment_item.xml" value="0.264" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/fragment_item_condition.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/fragment_item_list.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/fragment_item_type.xml" value="0.264" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/fragment_latest_product.xml" value="0.2" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/fragment_selected_city.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/fragment_user_detail.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_category_adapter.xml" value="0.264" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_city_adapter.xml" value="0.264" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_city_category_adapter.xml" value="0.4" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_dashboard_viewpager_blog.xml" value="0.115625" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_item_horizontal_with_user.xml" value="0.264" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_item_specs_adapter.xml" value="0.264" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_item_type.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_item_vertical_with_user.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_language_selection_list_adapter.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/layout/item_popular_city_adapter.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/menu/basket_menu.xml" value="0.1765625" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/menu/menu_drawer.xml" value="0.2359375" />
+        <entry key="..\:/data 128 gb pen drive/AndroidStudioProjects/PS-BuySell3/app/src/main/res/menu/menu_home.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
