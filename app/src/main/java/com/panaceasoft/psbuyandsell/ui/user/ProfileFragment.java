@@ -714,7 +714,7 @@ public class ProfileFragment extends PSFragment implements DataBoundListAdapter.
             e.printStackTrace();
         }
 
-        if (user.roleId.equalsIgnoreCase("4")){
+        if (user.roleId.equalsIgnoreCase("3")){
 
             binding.get().addItemButton.setVisibility(View.GONE);
         }else {

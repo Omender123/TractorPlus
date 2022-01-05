@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PS-BuySell3.iml" filepath="$PROJECT_DIR$/.idea/modules/PS-BuySell3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PS-BuySell3.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PS-BuySell3.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TractorPlus.iml" filepath="$PROJECT_DIR$/.idea/modules/TractorPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TractorPlus.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TractorPlus.app.iml" />
     </modules>
   </component>
 </project>
