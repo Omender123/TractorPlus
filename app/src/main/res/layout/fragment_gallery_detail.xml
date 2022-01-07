@@ -5,10 +5,10 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.panaceasoft.psbuyandsell.ui.gallery.detail.GalleryDetailFragment">
+        tools:context="com.example.tractorplus.ui.gallery.detail.GalleryDetailFragment">
 
 
-        <com.panaceasoft.psbuyandsell.utils.ExtendedViewPager
+        <com.example.tractorplus.utils.ExtendedViewPager
             android:id="@+id/view_pager"
             android:background="@color/image_detail_bg"
             android:layout_width="match_parent"

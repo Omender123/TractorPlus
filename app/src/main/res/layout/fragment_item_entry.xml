@@ -788,6 +788,7 @@
                 android:background="@drawable/custom_progress_bar_horizontal"
                 app:cardCornerRadius="@dimen/space_4"
                 app:cardElevation="0dp"
+                android:visibility="gone"
                 app:layout_constraintHorizontal_bias="1.0"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/priceTitleTextView">
@@ -998,7 +999,7 @@
                 app:font='@{"normal"}'
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/isShopTextView1" />
+                app:layout_constraintTop_toBottomOf="@+id/priceEditText" />
 
             <TextView
                 android:id="@+id/starTextView5"

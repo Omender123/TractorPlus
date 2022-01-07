@@ -9,7 +9,7 @@
 
         <variable
             name="offlinePayment"
-            type="com.panaceasoft.psbuyandsell.viewobject.OfflinePayment" />
+            type="com.example.tractorplus.viewobject.OfflinePayment" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

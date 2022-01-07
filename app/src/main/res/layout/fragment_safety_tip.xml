@@ -6,7 +6,7 @@
     <data>
         <variable
             name="aboutUs"
-            type="com.panaceasoft.psbuyandsell.viewobject.AboutUs" />
+            type="com.example.tractorplus.viewobject.AboutUs" />
     </data>
 
     <ScrollView

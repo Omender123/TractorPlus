@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.panaceasoft.psbuyandsell">
+    package="com.example.tractorplus">
 
     <uses-feature
         android:name="android.hardware.camera.autofocus"
@@ -30,7 +30,7 @@
 <!--android:requestLegacyExternalStorage="true"
 android:usesCleartextTraffic="true"-->
     <application
-        android:name=".PsApp"
+        android:name="com.example.tractorplus.PsApp"
 
         android:allowBackup="true"
         android:fullBackupContent="false"
@@ -42,24 +42,24 @@ android:usesCleartextTraffic="true"-->
         android:usesCleartextTraffic="true"
         android:networkSecurityConfig="@xml/network_security_config"
         tools:replace="android:label">
-        <activity android:name=".ui.user.phonelogin.PhoneLoginActivity" />
-        <activity android:name=".ui.user.editphone.EditPhoneActivity" />
-        <activity android:name=".ui.user.editphoneverify.VerifyMobileEditActivity" />
-        <activity android:name=".ui.safetytip.SafetyTipsActivity" />
-        <activity android:name=".ui.user.verifyphone.VerifyMobileActivity" />
-        <activity android:name=".ui.item.itemfromfollower.ItemFromFollowerListActivity" />
-        <activity android:name=".ui.location.LocationActivity" />
-        <activity android:name=".ui.item.itemtownshiplocation.TownshipLocationActivity" />
-        <activity android:name=".ui.customcamera.setting.CameraSettingActivity" />
-        <activity android:name=".ui.customcamera.CameraActivity" />
-        <activity android:name=".ui.item.itemtype.SearchViewActivity" />
+        <activity android:name="com.example.tractorplus.ui.user.phonelogin.PhoneLoginActivity" />
+        <activity android:name="com.example.tractorplus.ui.user.editphone.EditPhoneActivity" />
+        <activity android:name="com.example.tractorplus.ui.user.editphoneverify.VerifyMobileEditActivity" />
+        <activity android:name="com.example.tractorplus.ui.safetytip.SafetyTipsActivity" />
+        <activity android:name="com.example.tractorplus.ui.user.verifyphone.VerifyMobileActivity" />
+        <activity android:name="com.example.tractorplus.ui.item.itemfromfollower.ItemFromFollowerListActivity" />
+        <activity android:name="com.example.tractorplus.ui.location.LocationActivity" />
+        <activity android:name="com.example.tractorplus.ui.item.itemtownshiplocation.TownshipLocationActivity" />
+        <activity android:name="com.example.tractorplus.ui.customcamera.setting.CameraSettingActivity" />
+        <activity android:name="com.example.tractorplus.ui.customcamera.CameraActivity" />
+        <activity android:name="com.example.tractorplus.ui.item.itemtype.SearchViewActivity" />
         <activity
-            android:name=".ui.item.entry.ItemEntryActivity"
+            android:name="com.example.tractorplus.ui.item.entry.ItemEntryActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.apploading.AppLoadingActivity"
+            android:name="com.example.tractorplus.ui.apploading.AppLoadingActivity"
             android:label="@string/app__app_name"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
@@ -88,7 +88,7 @@ android:usesCleartextTraffic="true"-->
 
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.tractorplus.MainActivity"
             android:label="@string/app__app_name"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
@@ -96,22 +96,22 @@ android:usesCleartextTraffic="true"-->
             android:theme="@style/SplashTheme"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name=".ui.item.rating.RatingListActivity"
+            android:name="com.example.tractorplus.ui.item.rating.RatingListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.city.selectedcity.SelectedCityActivity"
+            android:name="com.example.tractorplus.ui.city.selectedcity.SelectedCityActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.subcategory.SubCategoryActivity"
+            android:name="com.example.tractorplus.ui.subcategory.SubCategoryActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.map.MapActivity"
+            android:name="com.example.tractorplus.ui.item.map.MapActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" /> <!-- <provider -->
@@ -125,113 +125,113 @@ android:usesCleartextTraffic="true"-->
         <!-- </meta-data> -->
         <!-- </provider> -->
         <activity
-            android:name=".ui.item.detail.ItemActivity"
+            android:name="com.example.tractorplus.ui.item.detail.ItemActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.category.list.CategoryListActivity"
+            android:name="com.example.tractorplus.ui.category.list.CategoryListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.category.categorysorting.CategorySortingListActivity"
+            android:name="com.example.tractorplus.ui.category.categorysorting.CategorySortingListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.ProfileEditActivity"
+            android:name="com.example.tractorplus.ui.user.ProfileEditActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.UserRegisterActivity"
+            android:name="com.example.tractorplus.ui.user.UserRegisterActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.UserFBRegisterActivity"
+            android:name="com.example.tractorplus.ui.user.UserFBRegisterActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.UserLoginActivity"
+            android:name="com.example.tractorplus.ui.user.UserLoginActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.UserForgotPasswordActivity"
+            android:name="com.example.tractorplus.ui.user.UserForgotPasswordActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.PasswordChangeActivity"
+            android:name="com.example.tractorplus.ui.user.PasswordChangeActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.search.specialfilterbyattributes.FilteringActivity"
+            android:name="com.example.tractorplus.ui.item.search.specialfilterbyattributes.FilteringActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.notification.detail.NotificationActivity"
+            android:name="com.example.tractorplus.ui.notification.detail.NotificationActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.offlinepayment.OfflinePaymentActivity"
+            android:name="com.example.tractorplus.ui.offlinepayment.OfflinePaymentActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.setting.SettingActivity"
+            android:name="com.example.tractorplus.ui.setting.SettingActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.more.MoreActivity"
+            android:name="com.example.tractorplus.ui.user.more.MoreActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.blockuser.BlockUserActivity"
+            android:name="com.example.tractorplus.ui.blockuser.BlockUserActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.reporteditem.ReportedItemActivity"
+            android:name="com.example.tractorplus.ui.item.reporteditem.ReportedItemActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.offer.OfferListActivity"
+            android:name="com.example.tractorplus.ui.offer.OfferListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.inapppurchase.InAppPurchaseActivity"
+            android:name="com.example.tractorplus.ui.inapppurchase.InAppPurchaseActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.notification.setting.NotificationSettingActivity"
+            android:name="com.example.tractorplus.ui.notification.setting.NotificationSettingActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.setting.appinfo.AppInfoActivity"
+            android:name="com.example.tractorplus.ui.setting.appinfo.AppInfoActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.favourite.FavouriteListActivity"
+            android:name="com.example.tractorplus.ui.item.favourite.FavouriteListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.featured.FeaturedListActivity"
+            android:name="com.example.tractorplus.ui.item.featured.FeaturedListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
@@ -240,124 +240,124 @@ android:usesCleartextTraffic="true"-->
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/app_name" />
         <activity
-            android:name=".ui.notification.list.NotificationListActivity"
+            android:name="com.example.tractorplus.ui.notification.list.NotificationListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.search.searchlist.SearchListActivity"
+            android:name="com.example.tractorplus.ui.item.search.searchlist.SearchListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.gallery.GalleryActivity"
+            android:name="com.example.tractorplus.ui.gallery.GalleryActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.readmore.ReadMoreActivity"
+            android:name="com.example.tractorplus.ui.item.readmore.ReadMoreActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
 
         <activity
-            android:name=".ui.item.itemlocationfilter.ItemLocationFilterActivity"
+            android:name="com.example.tractorplus.ui.item.itemlocationfilter.ItemLocationFilterActivity"
             android:screenOrientation="portrait"
             tools:ignore="ItemLocationFilterActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.itemtownshiplocation.townshipLocationFilter.ItemTownshipLocationFilterActivity"
+            android:name="com.example.tractorplus.ui.item.itemtownshiplocation.townshipLocationFilter.ItemTownshipLocationFilterActivity"
             android:screenOrientation="portrait"
             tools:ignore="ItemTownshipLocationFilterActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.gallery.detail.GalleryDetailActivity"
+            android:name="com.example.tractorplus.ui.gallery.detail.GalleryDetailActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.dashboard.DashboardSearchByCategoryActivity"
+            android:name="com.example.tractorplus.ui.dashboard.DashboardSearchByCategoryActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.history.UserHistoryListActivity"
+            android:name="com.example.tractorplus.ui.item.history.UserHistoryListActivity"
             android:label="@string/title__activity_user_history_list"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.loginUserItem.LoginUserItemListActivity"
+            android:name="com.example.tractorplus.ui.item.loginUserItem.LoginUserItemListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.userlist.UserListActivity"
+            android:name="com.example.tractorplus.ui.user.userlist.UserListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.verifyemail.VerifyEmailActivity"
+            android:name="com.example.tractorplus.ui.user.verifyemail.VerifyEmailActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.user.userlist.detail.UserDetailActivity"
+            android:name="com.example.tractorplus.ui.user.userlist.detail.UserDetailActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.blog.list.BlogListActivity"
+            android:name="com.example.tractorplus.ui.blog.list.BlogListActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.blog.detail.BlogDetailActivity"
+            android:name="com.example.tractorplus.ui.blog.detail.BlogDetailActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.forceupdate.ForceUpdateActivity"
+            android:name="com.example.tractorplus.ui.forceupdate.ForceUpdateActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.map.mapFilter.MapFilteringActivity"
+            android:name="com.example.tractorplus.ui.item.map.mapFilter.MapFilteringActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.chat.chat.ChatActivity"
+            android:name="com.example.tractorplus.ui.chat.chat.ChatActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.chat.chatimage.ChatImageFullScreenActivity"
+            android:name="com.example.tractorplus.ui.chat.chatimage.ChatImageFullScreenActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.privacypolicy.PrivacyPolicyActivity"
+            android:name="com.example.tractorplus.ui.privacypolicy.PrivacyPolicyActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.item.promote.ItemPromoteActivity"
+            android:name="com.example.tractorplus.ui.item.promote.ItemPromoteActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.stripe.StripeActivity"
+            android:name="com.example.tractorplus.ui.stripe.StripeActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.paystack.PaystackActivity"
+            android:name="com.example.tractorplus.ui.paystack.PaystackActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
         <activity
-            android:name=".ui.paystackrequest.PaystackRequestActivity"
+            android:name="com.example.tractorplus.ui.paystackrequest.PaystackRequestActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity"
             android:theme="@style/Base.PSTheme" />
@@ -379,7 +379,7 @@ android:usesCleartextTraffic="true"-->
             android:name="com.google.android.gms.ads.AD_MANAGER_APP"
             android:value="true" />
         <meta-data
-            android:name="com.panaceasoft.psbuyandsell.utils.CustomCachingGlideModule"
+            android:name="com.example.tractorplus.utils.CustomCachingGlideModule"
             android:value="AppGlideModule" />
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_color"
@@ -393,7 +393,7 @@ android:usesCleartextTraffic="true"-->
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.panaceasoft.psbuyandsell.fileprovider"
+            android:authorities="com.example.tractorplus.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
@@ -401,7 +401,7 @@ android:usesCleartextTraffic="true"-->
                 android:resource="@xml/file_paths" />
         </provider>
 
-        <service android:name=".utils.FirebaseMessagingService"
+        <service android:name="com.example.tractorplus.utils.FirebaseMessagingService"
             android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
 <!--            <intent-filter>-->
 <!--                <action android:name="android.service.notification.NotificationListenerService" />-->
@@ -412,7 +412,7 @@ android:usesCleartextTraffic="true"-->
         </service>
 
         <service
-            android:name=".utils.FirebaseInstanceIDService"
+            android:name="com.example.tractorplus.utils.FirebaseInstanceIDService"
             android:stopWithTask="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />

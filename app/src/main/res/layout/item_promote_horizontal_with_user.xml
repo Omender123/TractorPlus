@@ -9,7 +9,7 @@
 
         <variable
             name="paidHistory"
-            type="com.panaceasoft.psbuyandsell.viewobject.ItemPaidHistory" />
+            type="com.example.tractorplus.viewobject.ItemPaidHistory" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

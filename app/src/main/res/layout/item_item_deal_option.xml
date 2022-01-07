@@ -8,7 +8,7 @@
 
         <variable
             name="itemDealOption"
-            type="com.panaceasoft.psbuyandsell.viewobject.ItemDealOption" />
+            type="com.example.tractorplus.viewobject.ItemDealOption" />
 
     </data>
 

@@ -7,7 +7,7 @@
 
         <variable
             name="reporteditem"
-            type="com.panaceasoft.psbuyandsell.viewobject.ReportedItem" />
+            type="com.example.tractorplus.viewobject.ReportedItem" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

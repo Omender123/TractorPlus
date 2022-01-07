@@ -10,7 +10,7 @@
         <import type="android.view.View" />
         <variable
             name="image"
-            type="com.panaceasoft.psbuyandsell.viewobject.Image" />
+            type="com.example.tractorplus.viewobject.Image" />
 
     </data>
 

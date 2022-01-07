@@ -6,7 +6,7 @@
     <data>
         <variable
             name="message"
-            type="com.panaceasoft.psbuyandsell.viewobject.messageHolder.Message" />
+            type="com.example.tractorplus.viewobject.messageHolder.Message" />
     </data>
 
 

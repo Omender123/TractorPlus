@@ -7,7 +7,7 @@
 
         <variable
             name="itemtownshiplocationfilter"
-            type="com.panaceasoft.psbuyandsell.viewobject.ItemTownshipLocation" />
+            type="com.example.tractorplus.viewobject.ItemTownshipLocation" />
     </data>
 
 

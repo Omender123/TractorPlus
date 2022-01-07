@@ -6,7 +6,7 @@
 
         <variable
             name="user"
-            type="com.panaceasoft.psbuyandsell.viewobject.User" />
+            type="com.example.tractorplus.viewobject.User" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

@@ -9,7 +9,7 @@
 
         <variable
             name="item"
-            type="com.panaceasoft.psbuyandsell.viewobject.Item" />
+            type="com.example.tractorplus.viewobject.Item" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

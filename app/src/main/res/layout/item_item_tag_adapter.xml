@@ -5,7 +5,7 @@
 
         <variable
             name="tab"
-            type="com.panaceasoft.psbuyandsell.viewobject.holder.TabObject" />
+            type="com.example.tractorplus.viewobject.holder.TabObject" />
 
     </data>
 

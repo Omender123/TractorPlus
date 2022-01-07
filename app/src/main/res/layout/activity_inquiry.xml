@@ -6,7 +6,7 @@
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.panaceasoft.psbuyandsell.ui.inquiry.InquiryActivity">
+        tools:context="com.example.tractorplus.ui.inquiry.InquiryActivity">
 
         <com.google.android.material.appbar.AppBarLayout
             android:layout_width="match_parent"

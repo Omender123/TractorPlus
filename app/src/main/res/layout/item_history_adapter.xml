@@ -7,7 +7,7 @@
 
         <variable
             name="history"
-            type="com.panaceasoft.psbuyandsell.viewobject.ItemHistory" />
+            type="com.example.tractorplus.viewobject.ItemHistory" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

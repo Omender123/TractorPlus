@@ -8,7 +8,7 @@
 
         <variable
             name="city"
-            type="com.panaceasoft.psbuyandsell.viewobject.City"/>
+            type="com.example.tractorplus.viewobject.City"/>
 
     </data>
 

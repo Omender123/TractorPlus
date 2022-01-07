@@ -6,7 +6,7 @@
 
         <variable
             name="notification"
-            type="com.panaceasoft.psbuyandsell.viewobject.Noti" />
+            type="com.example.tractorplus.viewobject.Noti" />
     </data>
 
     <androidx.core.widget.NestedScrollView

@@ -8,7 +8,7 @@
 
         <variable
             name="itemCondition"
-            type="com.panaceasoft.psbuyandsell.viewobject.ItemCondition" />
+            type="com.example.tractorplus.viewobject.ItemCondition" />
 
     </data>
 
