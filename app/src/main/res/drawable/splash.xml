@@ -12,7 +12,7 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/app_icon"/>
+            android:src="@drawable/ic_app_lunch"/>
 
         <!--@mipmap/ic_launcher-->
     </item>

@@ -7,6 +7,8 @@
 
     <color name="global__primary_light">#DD6367</color>
     <color name="global__primary">#D2232A</color>
+    <color name="global__primary1">#C5C7C6</color>
+
     <color name="global__primary_transparent">#80D2232A</color>
     <color name="global__primary_dark">#B2160F</color>
     <color name="global__accent">#90a4ae</color>
