@@ -34,7 +34,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="@+id/guideline"
-                app:srcCompat="@drawable/login_app_logo" />
+                app:srcCompat="@drawable/app_logo" />
 
 
             <androidx.constraintlayout.widget.Guideline

@@ -67,6 +67,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
+                                                <entry key="color" value="d2232a" />
                                                 <entry key="imagePath" value="C:\Users\WELCOME\AppData\Local\Temp\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
@@ -113,7 +114,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="c5c7c6" />
+                                      <entry key="backgroundColor" value="d2232a" />
                                     </map>
                                   </option>
                                 </PersistentState>
