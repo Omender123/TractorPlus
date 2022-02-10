@@ -8,7 +8,7 @@
 
         <variable
             name="itemCurrency"
-            type="com.example.tractorplus.viewobject.ItemCurrency" />
+            type="com.prospective.tractorplus.viewobject.ItemCurrency" />
 
     </data>
 

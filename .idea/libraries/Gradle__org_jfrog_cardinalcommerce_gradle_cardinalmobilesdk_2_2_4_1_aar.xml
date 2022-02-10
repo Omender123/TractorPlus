@@ -7,6 +7,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6300963675ec3180d912030f7de2cc6f/jetified-cardinalmobilesdk-2.2.4-1/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6300963675ec3180d912030f7de2cc6f/jetified-cardinalmobilesdk-2.2.4-1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6300963675ec3180d912030f7de2cc6f/jetified-cardinalmobilesdk-2.2.4-1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0618dcc0f85e190ce6a4b57c12c0a11c/jetified-cardinalmobilesdk-2.2.4-1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0618dcc0f85e190ce6a4b57c12c0a11c/jetified-cardinalmobilesdk-2.2.4-1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0618dcc0f85e190ce6a4b57c12c0a11c/jetified-cardinalmobilesdk-2.2.4-1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

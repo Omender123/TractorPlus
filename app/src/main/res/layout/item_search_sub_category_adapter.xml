@@ -8,7 +8,7 @@
 
         <variable
             name="subCategory"
-            type="com.example.tractorplus.viewobject.ItemSubCategory" />
+            type="com.prospective.tractorplus.viewobject.ItemSubCategory" />
 
     </data>
 

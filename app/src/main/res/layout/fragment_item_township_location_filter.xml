@@ -7,7 +7,7 @@
 
         <variable
             name="itemtownshiplocationfilter"
-            type="com.example.tractorplus.viewobject.ItemTownshipLocation" />
+            type="com.prospective.tractorplus.viewobject.ItemTownshipLocation" />
     </data>
 
 

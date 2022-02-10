@@ -7,7 +7,7 @@
 
         <variable
             name="history"
-            type="com.example.tractorplus.viewobject.ItemHistory" />
+            type="com.prospective.tractorplus.viewobject.ItemHistory" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

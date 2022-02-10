@@ -4,7 +4,7 @@
 
     <data>
         <variable
-            name="itemSpecs" type="com.example.tractorplus.viewobject.ItemSpecs" />
+            name="itemSpecs" type="com.prospective.tractorplus.viewobject.ItemSpecs" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

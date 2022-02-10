@@ -6,7 +6,7 @@
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.example.tractorplus.ui.gallery.detail.GalleryDetailActivity">
+        tools:context="com.prospective.tractorplus.com.prospective.tractorplus.ui.gallery.detail.GalleryDetailActivity">
 
         <!--<com.google.android.material.appbar.AppBarLayout-->
             <!--android:layout_width="match_parent"-->

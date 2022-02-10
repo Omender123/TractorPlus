@@ -8,7 +8,7 @@
 
         <variable
             name="blockuser"
-            type="com.example.tractorplus.viewobject.BlockUser" />
+            type="com.prospective.tractorplus.viewobject.BlockUser" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

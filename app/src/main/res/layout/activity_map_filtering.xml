@@ -7,7 +7,7 @@
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".ui.item.map.MapActivity">
+        tools:context="com.prospective.tractorplus.ui.item.map.MapActivity">
 
         <com.google.android.material.appbar.AppBarLayout
             android:layout_width="match_parent"

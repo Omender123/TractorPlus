@@ -8,7 +8,7 @@
 
         <variable
             name="chatHistory"
-            type="com.example.tractorplus.viewobject.ChatHistory" />
+            type="com.prospective.tractorplus.viewobject.ChatHistory" />
 
     </data>
 

@@ -7,7 +7,7 @@
 
         <variable
             name="reporteditem"
-            type="com.example.tractorplus.viewobject.ReportedItem" />
+            type="com.prospective.tractorplus.viewobject.ReportedItem" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

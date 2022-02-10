@@ -5,7 +5,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.example.tractorplus.ui.notification.setting.NotificationSettingFragment"
+        tools:context="com.prospective.tractorplus.com.prospective.tractorplus.ui.notification.setting.NotificationSettingFragment"
         android:id="@+id/layout">
 
 

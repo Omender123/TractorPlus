@@ -8,7 +8,7 @@
 
         <variable
             name="itemCondition"
-            type="com.example.tractorplus.viewobject.ItemCondition" />
+            type="com.prospective.tractorplus.viewobject.ItemCondition" />
 
     </data>
 

@@ -6,7 +6,7 @@
 
         <variable
             name="user"
-            type="com.example.tractorplus.viewobject.User" />
+            type="com.prospective.tractorplus.viewobject.User" />
     </data>
 
     <androidx.core.widget.NestedScrollView

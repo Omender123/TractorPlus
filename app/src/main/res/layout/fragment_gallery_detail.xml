@@ -5,10 +5,10 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.example.tractorplus.ui.gallery.detail.GalleryDetailFragment">
+        tools:context="com.prospective.tractorplus.com.prospective.tractorplus.ui.gallery.detail.GalleryDetailFragment">
 
 
-        <com.example.tractorplus.utils.ExtendedViewPager
+        <com.prospective.tractorplus.utils.ExtendedViewPager
             android:id="@+id/view_pager"
             android:background="@color/image_detail_bg"
             android:layout_width="match_parent"

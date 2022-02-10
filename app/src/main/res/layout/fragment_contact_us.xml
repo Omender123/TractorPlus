@@ -14,7 +14,7 @@
         android:id="@+id/contact_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.example.tractorplus.ui.contactus.ContactUsFragment">
+        tools:context="com.prospective.tractorplus.com.prospective.tractorplus.ui.contactus.ContactUsFragment">
 
 
         <com.google.android.material.textfield.TextInputLayout

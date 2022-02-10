@@ -9,7 +9,7 @@
 
         <variable
             name="paidHistory"
-            type="com.example.tractorplus.viewobject.ItemPaidHistory" />
+            type="com.prospective.tractorplus.viewobject.ItemPaidHistory" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

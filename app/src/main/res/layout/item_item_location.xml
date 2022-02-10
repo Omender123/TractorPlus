@@ -8,7 +8,7 @@
 
         <variable
             name="itemLocation"
-            type="com.example.tractorplus.viewobject.ItemLocation" />
+            type="com.prospective.tractorplus.viewobject.ItemLocation" />
 
     </data>
 

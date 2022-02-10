@@ -7,7 +7,7 @@
     <data>
         <variable
             name="message"
-            type="com.example.tractorplus.viewobject.messageHolder.Message" />
+            type="com.prospective.tractorplus.viewobject.messageHolder.Message" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

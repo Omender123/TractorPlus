@@ -8,7 +8,7 @@
 
         <variable
             name="itemType"
-            type="com.example.tractorplus.viewobject.ItemType" />
+            type="com.prospective.tractorplus.viewobject.ItemType" />
 
     </data>
 

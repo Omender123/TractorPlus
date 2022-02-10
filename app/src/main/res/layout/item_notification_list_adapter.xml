@@ -9,7 +9,7 @@
 
         <variable
             name="notification"
-            type="com.example.tractorplus.viewobject.Noti" />
+            type="com.prospective.tractorplus.viewobject.Noti" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
